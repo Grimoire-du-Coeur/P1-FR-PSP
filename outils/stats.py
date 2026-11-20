@@ -419,7 +419,7 @@ FIN_BADGES = "<!-- badges:fin -->"
 # reelle. Un « OWNER » ici rend tous les badges du README introuvables.
 URL_BADGE = (
     "https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/"
-    "CodeByHaamza/P1-FR-PSP/main/.github/{fichier}.json"
+    "Grimoire-du-Coeur/P1-FR-PSP/main/.github/{fichier}.json"
 )
 
 
@@ -443,7 +443,7 @@ def ecrire_badges_readme(racine: Path, sections, fait: int, tout: int, relecture
         "![licence : CC BY-NC-SA 4.0](https://img.shields.io/badge/licence-CC%20BY--NC--SA%204.0-lightgrey)",
         "[![Discord : Grimoire du Coeur]"
         "(https://img.shields.io/badge/discord-Grimoire%20du%20C%C5%93ur-5865F2"
-        "?logo=discord&logoColor=white)](https://discord.gg/s6CRadvPa3)",
+        "?logo=discord&logoColor=white)](https://discord.gg/personafr)",
         "",
     ]
     # La relecture sur sa propre ligne, et en tete : c'est l'etape en cours.
@@ -543,7 +543,7 @@ def rendre(sections, reservations, sante, auteurs=None, relectures=None):
             "d'un bout à l'autre ou pas du tout. Un script compte pour relu quand son "
             "issue `Relecture : …` est **fermée**, c'est-à-dire quand ses retours ont été "
             "traités. Le plus simple pour relire est "
-            "[l'outil de relecture](https://codebyhaamza.github.io/p1-relecture/) : rien "
+            "[l'outil de relecture](https://grimoire-du-coeur.github.io/p1-relecture/) : rien "
             "à installer, il montre ce qui est déjà pris et mène au prochain script que "
             "personne n'a lu."
         )

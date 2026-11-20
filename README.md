@@ -1,42 +1,48 @@
-<img src="assets/persona-psp.jpg" align="right" width="200" alt="Shin Megami Tensei: Persona (PSP)">
+<p align="center">
+  <img src="assets/banniere.svg" width="100%" alt="Shin Megami Tensei: Persona — traduction française (PSP)">
+</p>
 
-# Persona 1 FR
+<div align="center">
+
+<!-- badges:debut -->
+[![avancement total : 100 % des textes traduits](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Grimoire-du-Coeur/P1-FR-PSP/main/.github/badge.json)](SUIVI.md)
+![licence : CC BY-NC-SA 4.0](https://img.shields.io/badge/licence-CC%20BY--NC--SA%204.0-lightgrey)
+[![Discord : Grimoire du Coeur](https://img.shields.io/badge/discord-Grimoire%20du%20C%C5%93ur-5865F2?logo=discord&logoColor=white)](https://discord.gg/personafr)
+[![relecture : 4 % (11 scripts relus sur 284)](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Grimoire-du-Coeur/P1-FR-PSP/main/.github/badge_relecture.json)](SUIVI.md)
+
+[![dialogues : 100 % traduits (8 560 sur 8 572 textes)](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Grimoire-du-Coeur/P1-FR-PSP/main/.github/badge_dialogues.json)](SUIVI.md)
+[![eboot : 100 % traduits (2 956 sur 2 956 textes)](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Grimoire-du-Coeur/P1-FR-PSP/main/.github/badge_eboot.json)](SUIVI.md)
+[![donjons : 100 % traduits (130 sur 130 textes)](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Grimoire-du-Coeur/P1-FR-PSP/main/.github/badge_donjons.json)](SUIVI.md)
+[![négociations : 100 % traduits (12 487 sur 12 487 textes)](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Grimoire-du-Coeur/P1-FR-PSP/main/.github/badge_negociations.json)](SUIVI.md)
+[![noms : 100 % traduits (439 sur 439 textes)](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Grimoire-du-Coeur/P1-FR-PSP/main/.github/badge_noms.json)](SUIVI.md)
+<!-- badges:fin -->
+
+</div>
+
+<img src="assets/persona-psp.jpg" align="right" width="220" alt="Shin Megami Tensei: Persona (PSP)">
 
 **Traduction française de *Shin Megami Tensei: Persona*** (PSP, version
 américaine `ULUS-10432`). Le jeu n'est jamais sorti en français ; ce projet
 vise une version complète, jouable, et écrite en vrai français — accents
 compris.
 
-<!-- badges:debut -->
-[![avancement total : 100 % des textes traduits](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CodeByHaamza/P1-FR-PSP/main/.github/badge.json)](SUIVI.md)
-![licence : CC BY-NC-SA 4.0](https://img.shields.io/badge/licence-CC%20BY--NC--SA%204.0-lightgrey)
-[![Discord : Grimoire du Coeur](https://img.shields.io/badge/discord-Grimoire%20du%20C%C5%93ur-5865F2?logo=discord&logoColor=white)](https://discord.gg/s6CRadvPa3)
-[![relecture : 4 % (11 scripts relus sur 284)](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CodeByHaamza/P1-FR-PSP/main/.github/badge_relecture.json)](SUIVI.md)
-
-[![dialogues : 100 % traduits (8 560 sur 8 572 textes)](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CodeByHaamza/P1-FR-PSP/main/.github/badge_dialogues.json)](SUIVI.md)
-[![eboot : 100 % traduits (2 956 sur 2 956 textes)](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CodeByHaamza/P1-FR-PSP/main/.github/badge_eboot.json)](SUIVI.md)
-[![donjons : 100 % traduits (130 sur 130 textes)](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CodeByHaamza/P1-FR-PSP/main/.github/badge_donjons.json)](SUIVI.md)
-[![négociations : 100 % traduits (12 487 sur 12 487 textes)](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CodeByHaamza/P1-FR-PSP/main/.github/badge_negociations.json)](SUIVI.md)
-[![noms : 100 % traduits (439 sur 439 textes)](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CodeByHaamza/P1-FR-PSP/main/.github/badge_noms.json)](SUIVI.md)
-<!-- badges:fin -->
-
 **Le texte est traduit à 100 %. On cherche maintenant des relecteurs et des
-testeurs.** Rien à installer : l'**[outil de relecture](https://codebyhaamza.github.io/p1-relecture/)** ouvre les 284
+testeurs.** Rien à installer : l'**[outil de relecture](https://grimoire-du-coeur.github.io/p1-relecture/)** ouvre les 284
 scripts comme un roman, et vérifie chaque proposition contre les contraintes du
 jeu pendant que tu la tapes. Il montre aussi ce qui est déjà relu, pour que
 personne ne refasse le travail d'un autre. Ce qui reste à faire, et dans quel
 ordre, est écrit dans la [feuille de route](docs/FEUILLE_DE_ROUTE.md).
 
-On travaille avec la communauté du **[Grimoire du Cœur](https://discord.gg/s6CRadvPa3)**,
+On travaille avec la communauté du **[Grimoire du Cœur](https://discord.gg/personafr)**,
 le Discord francophone des traductions Persona : c'est là qu'on discute d'une
 réplique, d'un terme, d'un doute — avant de trancher, et souvent avant
 d'ouvrir une issue. Viens dire bonjour.
 
-👉 **[Relire en ligne](https://codebyhaamza.github.io/p1-relecture/)** · **[Comment aider](CONTRIBUTING.md)** · **[Avancement](SUIVI.md)** · **[Feuille de route](docs/FEUILLE_DE_ROUTE.md)** · **[FAQ](docs/FAQ.md)** · **[Discord](https://discord.gg/s6CRadvPa3)**
+👉 **[Relire en ligne](https://grimoire-du-coeur.github.io/p1-relecture/)** · **[Comment aider](CONTRIBUTING.md)** · **[Avancement](SUIVI.md)** · **[Feuille de route](docs/FEUILLE_DE_ROUTE.md)** · **[FAQ](docs/FAQ.md)** · **[Discord](https://discord.gg/personafr)**
 
 <br clear="right">
 
----
+<img src="assets/separateur.svg" width="100%" alt="">
 
 ## À quoi ça ressemble
 
@@ -59,7 +65,7 @@ régler leurs métriques. Vingt-cinq caractères, validés en jeu.
   <img src="assets/captures/accents.png" width="700" alt="texte français accentué en jeu">
 </p>
 
----
+<img src="assets/separateur.svg" width="100%" alt="">
 
 ## Le rendu HD, recommandé
 
@@ -100,7 +106,7 @@ Dans PPSSPP, **fenêtre fermée** : `Remplacement de textures` **ON**,
 La traduction fonctionne très bien sans lui — c'est ainsi qu'elle a été
 développée. Le texte est simplement en résolution d'origine.
 
----
+<img src="assets/separateur.svg" width="100%" alt="">
 
 ## Ton premier fichier, en cinq minutes
 
@@ -118,7 +124,7 @@ la scène, qui parle, et ce qu'il faut savoir avant de commencer.
 Tout est détaillé dans **[CONTRIBUTING.md](CONTRIBUTING.md)**. Tu n'as pas
 besoin du jeu, ni de savoir coder, ni d'avoir fini le fichier d'un coup.
 
----
+<img src="assets/separateur.svg" width="100%" alt="">
 
 ## L'IA, on s'en sert — et on ne s'en cache pas
 
@@ -141,7 +147,7 @@ sortie brute envoyée telle quelle se voit tout de suite et sera refusée.
 On n'y voit aucun inconvénient, à cette condition. Si tu t'en sers, dis-le
 dans ta PR, donne-lui [CLAUDE.md](CLAUDE.md), et relis tout.
 
----
+<img src="assets/separateur.svg" width="100%" alt="">
 
 ## Ce qui est ouvert
 
@@ -214,7 +220,7 @@ SUIVI.md          généré, jamais édité à la main
 - **Ryuubu** — le pack de textures haute définition, dont vient tout ce que les
   captures de cette page ont de net. Publié sur les forums PPSSPP, porté sur
   [GameBanana](https://gamebanana.com/mods/309876).
-- **chenetulipe et l'équipe [P2-FR-IS-PSP](https://github.com/chenetulipe/P2-FR-IS-PSP)** —
+- **chenetulipe et l'équipe [P2-IS-FR-PSP](https://github.com/Grimoire-du-Coeur/P2-IS-FR-PSP)** —
   modèle d'organisation.
 - **Atlus / SEGA** — ayants droit du jeu.
 

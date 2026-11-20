@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 40" width="1200" height="40" role="img" aria-label="séparateur">
+<defs>
+<linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#B9A6D6" stop-opacity="0"/><stop offset=".4" stop-color="#B9A6D6"/><stop offset=".5" stop-color="#D9B66A"/><stop offset=".6" stop-color="#B9A6D6"/><stop offset="1" stop-color="#B9A6D6" stop-opacity="0"/></linearGradient>
+<linearGradient id="r" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#FFF4D6" stop-opacity=".9"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<clipPath id="c"><rect x="0" y="19" width="1200" height="2"/></clipPath>
+</defs>
+<style>.b{animation:b 5s ease-in-out infinite}@keyframes b{0%{transform:translateX(-200px)}60%,100%{transform:translateX(1300px)}}.ailes{transform-box:fill-box;transform-origin:50% 50%;animation:bat .6s ease-in-out infinite alternate}@keyframes bat{to{transform:scaleX(.3)}}@media (prefers-reduced-motion:reduce){*{animation:none!important}.b{opacity:0}}</style>
+<rect x="0" y="19" width="1200" height="2" fill="url(#g)"/>
+<g clip-path="url(#c)"><rect class="b" x="0" y="19" width="180" height="2" fill="url(#r)"/></g>
+<rect x="572" y="15" width="56" height="10" rx="5" fill="#140A24" opacity=".0"/>
+<g class="pp"><g transform="translate(600 16) rotate(0) scale(0.55)"><g class="ailes"><path d="M0 0 C-20 -24 -36 -6 -24 8 C-16 17 -5 9 0 2 Z" fill="#7FB4FF"/><path d="M0 2 C-7 15 -20 24 -13 30 C-5 33 -1 18 0 5 Z" fill="#7FB4FF" opacity=".75"/><path d="M0 0 C20 -24 36 -6 24 8 C16 17 5 9 0 2 Z" fill="#7FB4FF"/><path d="M0 2 C7 15 20 24 13 30 C5 33 1 18 0 5 Z" fill="#7FB4FF" opacity=".75"/></g><rect x="-1.4" y="-7" width="2.8" height="20" rx="1.4" fill="#140A24"/></g></g>
+</svg>
