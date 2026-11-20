@@ -297,7 +297,7 @@ puisqu'une incohérence naît du rapprochement de deux fichiers dont un seul bou
 ### 3d. ✅ L'outil de relecture *(03/10/2026)*
 
 Lire 24 572 textes dans des fichiers JSON, personne ne le fera. D'où
-**<https://codebyhaamza.github.io/p1-relecture/>** : les 284 scripts se lisent
+**<https://grimoire-du-coeur.github.io/p1-relecture/>** : les 284 scripts se lisent
 comme un roman, chaque ligne à l'écran est une ligne du jeu, et une proposition
 est vérifiée **pendant la frappe** contre les trois contraintes — les codes, la
 largeur en pixels, le budget du bloc. Le bouton reste gris tant que ça ne tient
@@ -396,7 +396,7 @@ plutôt qu'une grande. Chaque correction de largeur ou de longueur repasse par
 symptôme serait un fichier entier en anglais.
 
 C'est aussi le moment d'ouvrir la relecture à qui veut, et il n'y a plus de lots
-à découper : l'**[outil de relecture](https://codebyhaamza.github.io/p1-relecture/)**
+à découper : l'**[outil de relecture](https://grimoire-du-coeur.github.io/p1-relecture/)**
 montre les 284 scripts, dit lesquels sont déjà pris, et mène au prochain que
 personne n'a lu. Relire est une porte d'entrée plus facile que traduire — pas
 besoin de connaître les jetons ni les budgets, l'outil s'en occupe et refuse

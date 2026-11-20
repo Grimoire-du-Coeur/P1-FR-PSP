@@ -7,7 +7,7 @@ installer, pas d'outil à télécharger, aucune ligne de code.
 
 ## Relire : le plus simple
 
-Le texte est écrit ; ce qui manque, ce sont des yeux. L'**[outil de relecture](https://codebyhaamza.github.io/p1-relecture/)**
+Le texte est écrit ; ce qui manque, ce sont des yeux. L'**[outil de relecture](https://grimoire-du-coeur.github.io/p1-relecture/)**
 est fait pour ça et ne demande rien à installer :
 
 1. Le sommaire montre les 284 scripts. Le filtre **Pas encore relus** mène droit
@@ -164,7 +164,7 @@ python outils/largeur_pixels.py --racine trad --zone dialogues
 ```
 
 Mais le plus simple reste
-l'[outil de relecture](https://codebyhaamza.github.io/p1-relecture/) : la jauge
+l'[outil de relecture](https://grimoire-du-coeur.github.io/p1-relecture/) : la jauge
 répond pendant que tu tapes, et le bouton reste gris tant que ça ne tient pas.
 
 En écrivant, un repère utile : une quarantaine de signes. Laisse la mesure dire
@@ -250,7 +250,7 @@ L'inverse vaut aussi : on n'ajoute pas de gros mot que l'anglais n'a pas.
 - Les noms propres, Personae, sorts et lieux suivent le
   [Dictionnaire](docs/Dictionnaire.md). Il fait autorité ; si un terme y manque,
   ouvre une issue ou viens en parler sur le
-  [Discord du Grimoire du Cœur](https://discord.gg/s6CRadvPa3) plutôt que de
+  [Discord du Grimoire du Cœur](https://discord.gg/personafr) plutôt que de
   trancher seul.
 
 Plus de détail dans [docs/REGLES.md](docs/REGLES.md).
