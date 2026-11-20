@@ -13,7 +13,7 @@ Noms           █████████████████████�
 Total          ████████████████████████  100 %   24 572 / 24 584 textes
 ```
 
-La **relecture** se compte en scripts, pas en textes : on relit un fichier d'un bout à l'autre ou pas du tout. Un script compte pour relu quand son issue `Relecture : …` est **fermée**, c'est-à-dire quand ses retours ont été traités. Le plus simple pour relire est [l'outil de relecture](https://codebyhaamza.github.io/p1-relecture/) : rien à installer, il montre ce qui est déjà pris et mène au prochain script que personne n'a lu.
+La **relecture** se compte en scripts, pas en textes : on relit un fichier d'un bout à l'autre ou pas du tout. Un script compte pour relu quand son issue `Relecture : …` est **fermée**, c'est-à-dire quand ses retours ont été traités. Le plus simple pour relire est [l'outil de relecture](https://grimoire-du-coeur.github.io/p1-relecture/) : rien à installer, il montre ce qui est déjà pris et mène au prochain script que personne n'a lu.
 
 ## Poids à surveiller
 
